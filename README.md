@@ -1,11 +1,8 @@
 # Calculator
-
 Calculator done as a project for one of my courses.
-Other participants in the project:
 
-- Henri Kemppainen
-- Tero Lahti
-- Nelle Pelkonen
+Calculator has been made to be similar to Windows calculator.
+Three modes: standard, scientific and temperature conversion.
 
 ![Standard calculator](/Images/Standard.png)
 
